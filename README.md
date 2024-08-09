@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## 🌐 Socials:
+## Socials:
 
 <p align="center">
   <a href="https://github.com/nirajktr">
@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"></a>
 </p>
 
-## 💻 Tech Stack:
+## Tech Stack:
 
 <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="60" width="60"/>
@@ -29,7 +29,7 @@
     <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" height="60" width="60"/> -->
 </p>
 
-## 🔥 GitHub stats:
+## GitHub stats:
 
 ![Niraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirajktr&show_icons=true&theme=dark)
 
