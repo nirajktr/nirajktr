@@ -31,6 +31,6 @@
 
 ## 🔥 GitHub stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nirajktr)
+![Niraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirajktr&show_icons=true&theme=dark)
 
 
