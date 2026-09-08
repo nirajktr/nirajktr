@@ -44,8 +44,5 @@ public class Human {
     <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" height="60" width="60"/> -->
 </p>
 
-## GitHub stats:
-
-![Niraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirajktr&show_icons=true&theme=dark)
 
 
